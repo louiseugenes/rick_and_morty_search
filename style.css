@@ -89,7 +89,7 @@ header{
   background-color: green;
 }
 .show_info .show_status:not(.dead):not(.alive)::before {
-  background-color: yellow;
+  background-color: #bbb8b8;
 }
 
 .show_info .title_location, .show_info .title_first_seen{
@@ -117,6 +117,9 @@ header{
 }
 
 .select_first_residents{
+  color: white;
+  background-color: #3B3E44;
+
   font-size: 20px;
   border-radius: 8px;
   border-color: #898989;
@@ -134,6 +137,8 @@ header{
 }
 
 .select_first_episodes{
+  color: white;
+  background-color: #3B3E44;
   font-size: 20px;
   border-radius: 8px;
   border-color: #898989;
