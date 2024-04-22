@@ -108,3 +108,36 @@ header{
   border-radius: 15px;
 }
 
+.select_box_residents{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.select_first_residents{
+  font-size: 20px;
+  border-radius: 8px;
+  border-color: #898989;
+  border-width: 3px;
+  width: 753px;
+  height: 80px;
+}
+
+.select_box_episodes{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.select_first_episodes{
+  font-size: 20px;
+  border-radius: 8px;
+  border-color: #898989;
+  border-width: 3px;
+  width: 753px;
+  height: 80px;
+}
