@@ -89,4 +89,3 @@ function updateStatus(statusElement, character) {
   }
   statusElement.textContent = statusElement.textContent.charAt(0).toUpperCase() + statusElement.textContent.slice(1).toLowerCase();
 }
-
